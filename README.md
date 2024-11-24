@@ -1,4 +1,4 @@
-# Visualizing fire scars through false color
+# Visualizing Fire Scars Through False Color
 *This repository was produced as a part of the UCSB MEDS program for EDS 220: Working with Environmental Datasets.*
 
 ## About
@@ -22,8 +22,12 @@ eds220-hwk4
 │
 └───data
     │   thomasfire.geojson
+└───images
+    │   Satellite_image_of_Thomas_Fire.jpg
 ```
 ## Data
 Fire perimeter data was obtained from CalFire's Historical Fire Perimeters dataset. Landsat data was provided as a part of this exercise and accessed from UCSB Bren's Taylor server.
 
 ## References
+- Fire Resource and Assessment Program. (2024). *Historical Fire Perimeters* CalFire. https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters. Access date: November 23, 2024.
+- NASA Landsat 8 (2024). *Landsat Collection 2 Level-2 Science Products* Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. Access date: November 23, 2024.

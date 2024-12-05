@@ -26,8 +26,9 @@ eds220-hwk4
     │   Satellite_image_of_Thomas_Fire.jpg
 ```
 ## Data
-Fire perimeter data was obtained from CalFire's Historical Fire Perimeters dataset. Landsat data was provided as a part of this exercise and accessed from UCSB Bren's Taylor server.
+Fire perimeter data was obtained from CalFire's Historical Fire Perimeters dataset. Landsat data was provided as a part of this exercise and accessed from UCSB Bren's Taylor server at `/courses/EDS220/data/hwk4_landsat_data landsat8-2018-01-26-sb-simplified.nc`
 
 ## References
-- Fire Resource and Assessment Program. (2024). *Historical Fire Perimeters* CalFire. https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters. Access date: November 23, 2024.
-- NASA Landsat 8 (2024). *Landsat Collection 2 Level-2 Science Products* Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. Access date: November 23, 2024.
+- Fire Resource and Assessment Program. (2024). *Historical Fire Perimeters.* CalFire. https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters. Accessed: November 23, 2024.
+- NASA Landsat 8 (2024). *Landsat Collection 2 Level-2 Science Products.* Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. Accessed: November 23, 2024.
+- Galaz-Garcia, Carmen. (2024). *EDS 220 Assignment 4.* UCSB MEDS. https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4.html. Accessed: November 23, 2024.

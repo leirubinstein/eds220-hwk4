@@ -18,6 +18,7 @@ eds220-hwk4
 │   README.md
 |   hwk4-task2-fire-perimeter-RUBINSTEIN.ipynb
 │   hwk4-task2-false-color-RUBINSTEIN.ipynb
+│   thomas-fire-blogspot.ipynb
 |   .gitignore
 │
 └───data

@@ -32,4 +32,5 @@ Fire perimeter data was obtained from CalFire's Historical Fire Perimeters datas
 ## References
 - Fire Resource and Assessment Program. (2024). *Historical Fire Perimeters.* CalFire. https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters. Accessed: November 23, 2024.
 - NASA Landsat 8 (2024). *Landsat Collection 2 Level-2 Science Products.* Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. Accessed: November 23, 2024.
+- U.S. Geological Survey. (2016). *GAP/LANDFIRE National Terrestrial Ecosystems Data 2011.* USGS. https://www.sciencebase.gov/catalog/item/573cc51be4b0dae0d5e4b0c5. Accessed: November 23, 2024.
 - Galaz-Garcia, Carmen. (2024). *EDS 220 Assignment 4.* UCSB MEDS. https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4.html. Accessed: November 23, 2024.
